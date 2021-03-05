@@ -21,6 +21,8 @@ From the [course overview][overview]:
 
 Complete the following tasks before the in-class portion of the course.
 
+- **Join the [#technical-writing](slack://channel?team=T033JPZLT&id=C01R3118C2C) channel** in our Slack workspace. This
+  is where I will post announcements regarding the course.
 - **Review [the pre-class material][preclass] (2 hours),** ideally including the optional sections and exercises.
 - **Complete [this WhenIsGood][whenisgood]** so I can determine the best time for the in-class session. I will try to
   fit everyone in the same session to keep it more interesting.
