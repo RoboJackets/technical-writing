@@ -1,5 +1,3 @@
-# Technical Writing
-
 These courses are largely adapted from [Google's technical writing courses][homepage]. This page has details specific to
 RoboJackets spring training.
 
