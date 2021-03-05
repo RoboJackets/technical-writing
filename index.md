@@ -1,11 +1,11 @@
 These courses are largely adapted from [Google's technical writing courses][homepage]. This page has details specific to
 RoboJackets spring training.
 
-[Kristaps Berzinch][email] will be facilitating this course for Spring 2021. If you have any questions, please post in
+[Kristaps Berzinch][email] will be facilitating these courses for Spring 2021. If you have any questions, please post in
 [#technical-writing](slack://channel?team=T033JPZLT&id=C01R3118C2C).
 
-As the in-class portion is primarily an exercise and discussion forum, and Google has restricted access to the slides to
-facilitators, neither the slides nor a recording of the session will be published.
+As the in-class sessions are primarily an exercise and discussion forum, and Google has restricted access to the slides
+to facilitators, neither the slides nor recordings of the in-class sessions will be published.
 
 ## Technical Writing One
 
@@ -28,6 +28,14 @@ Complete the following tasks before the in-class portion of the course.
   [#technical-writing](slack://channel?team=T033JPZLT&id=C01R3118C2C) for updates. Participants will work in pairs for a
   significant portion of the session, so please RSVP if you are planning to attend so that I can make useful
   assignments.
+
+### During the class
+
+You will be working with another participant on a variety of writing exercises. Please RSVP above so I can pair you up!
+
+### After the class
+
+I will post a short survey to gather feedback on the session.
 
 ## Technical Writing Two
 
