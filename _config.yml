@@ -1,0 +1,12 @@
+title: Technical Writing
+
+twitter:
+  username: RoboJackets
+  card: summary
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - "README.md"
+  - LICENSE
