@@ -1,3 +1,4 @@
+---
 title: Technical Writing
 
 twitter:
@@ -5,8 +6,8 @@ twitter:
   card: summary
 
 exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
-  - "README.md"
-  - LICENSE
+- Gemfile
+- Gemfile.lock
+- vendor
+- README.md
+- LICENSE
