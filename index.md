@@ -12,11 +12,6 @@ to facilitators, neither the slides nor recordings of the in-class sessions will
 This course focuses on the critical basics of technical writing, including guidelines for clearer writing, sentence
 structure, and paragraph structure. It consists of 2 hours of pre-class material and a 2-hour in-class session.
 
-From the [course overview][overview]:
-
->The pre-class components introduce topics; the in-class components help students integrate and practice those topics.
->That said, the pre-class work, by itself, provides significant educational value.
-
 ### Before the class
 
 Complete the following tasks before the in-class portion of the course.
@@ -76,7 +71,6 @@ will be announced during the session.
 Please submit [this short survey][two-survey] with feedback regarding the course.
 
 [homepage]: https://developers.google.com/tech-writing
-[overview]: https://developers.google.com/tech-writing/overview
 [email]: mailto:kristaps@robojackets.org
 [one-preclass]: https://developers.google.com/tech-writing/one
 [one-whenisgood]: http://whenisgood.net/darcb4k
