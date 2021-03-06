@@ -40,7 +40,8 @@ will be announced during the session.
 
 ### After the class
 
-Please submit [this short survey][one-survey] with feedback regarding the course, and consider signing up for Technical Writing Two!
+Please submit [this short survey][one-survey] with feedback regarding the course, and consider signing up for Technical
+Writing Two!
 
 ## Technical Writing Two
 
