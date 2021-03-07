@@ -4,7 +4,7 @@ permalink: /
 These courses are largely adapted from [Google's technical writing courses][homepage]. This page has details specific to
 RoboJackets spring training.
 
-[Kristaps Berzinch][email] will be facilitating these courses for Spring 2021. If you have any questions, please post in
+[Kristaps Berzinch][email] will facilitate these courses for Spring 2021. If you have any questions, please post in
 [#technical-writing](slack://channel?team=T033JPZLT&id=C01R3118C2C).
 
 As the in-class sessions are primarily an exercise and discussion forum, and Google has restricted access to the slides
