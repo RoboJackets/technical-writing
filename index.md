@@ -22,8 +22,8 @@ Complete the following tasks before the in-class portion of the course.
 - **Join the [#technical-writing](slack://channel?team=T033JPZLT&id=C01R3118C2C) channel** in our Slack workspace. This
   is where I will post announcements regarding the course.
 - **Review [the pre-class material][one-preclass] (2 hours),** ideally including the optional sections and exercises.
-- **Complete [this WhenIsGood][one-whenisgood]** so I can determine the best time for the in-class session. I will try to
-  fit everyone in the same session to keep it more interesting.
+- ~~**Complete [this WhenIsGood][one-whenisgood]** so I can determine the best time for the in-class session. I will try
+  to fit everyone in the same session to keep it more interesting.~~
 - **[Click here][one-rsvp] to RSVP to the in-class portion.** We will meet via Google Meet on **Saturday, March 20th at
   11am**, and the session is designed to take about two hours. Participants will work in pairs for a
   significant portion of the session, so please RSVP if you are planning to attend. If the scheduled time does not work
