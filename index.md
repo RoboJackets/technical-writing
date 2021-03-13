@@ -25,7 +25,7 @@ Complete the following tasks before the in-class portion of the course.
 - ~~**Complete [this WhenIsGood][one-whenisgood]** so I can determine the best time for the in-class session. I will try
   to fit everyone in the same session to keep it more interesting.~~
 - **[Click here][one-rsvp] to RSVP to the in-class portion.** We will meet via Google Meet on **Saturday, March 20th at
-  11am**, and the session is designed to take about two hours. Participants will work in pairs for a
+  11am ET**, and the session is designed to take about two hours. Participants will work in pairs for a
   significant portion of the session, so please RSVP if you are planning to attend. If the scheduled time does not work
   for you, consider attending one of [the sessions hosted by Google][google-hosted].
 
