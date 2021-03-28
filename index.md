@@ -22,10 +22,10 @@ Complete the following tasks before the in-class portion of the course.
 - **Join the [#technical-writing](slack://channel?team=T033JPZLT&id=C01R3118C2C) channel** in our Slack workspace. This
   is where I will post announcements regarding the course.
 - **Review [the pre-class material][one-preclass] (2 hours),** ideally including the optional sections and exercises.
-- **Complete [this WhenIsGood][one-whenisgood]** so I can determine the best time for the in-class session. I will try
-  to fit everyone in the same session to keep it more interesting.
-- **RSVP to the session once a time is confirmed.** The link to do so will be posted here later; keep an eye on
-  [#technical-writing](slack://channel?team=T033JPZLT&id=C01R3118C2C) for updates. Participants will work in pairs for a
+- ~~**Complete [this WhenIsGood][one-whenisgood]** so I can determine the best time for the in-class session. I will try
+  to fit everyone in the same session to keep it more interesting.~~
+- **[Click here][one-rsvp] to RSVP to the in-class portion.** We will meet via Google Meet on **Sunday, April 4th at
+  2pm ET**, and the session is designed to take about two hours. Participants will work in pairs for a
   significant portion of the session, so please RSVP if you are planning to attend. If the scheduled time does not work
   for you, consider attending one of [the sessions hosted by Google][google-hosted].
 
@@ -76,7 +76,7 @@ Please submit [this short survey][two-survey] with feedback regarding the course
 [homepage]: https://developers.google.com/tech-writing
 [email]: mailto:kristaps@robojackets.org
 [one-preclass]: https://developers.google.com/tech-writing/one
-[one-rsvp]: https://my.robojackets.org/events/24/rsvp
+[one-rsvp]: https://my.robojackets.org/events/25/rsvp
 [one-whenisgood]: http://whenisgood.net/4gmhizy
 [one-survey]: https://docs.google.com/forms/d/e/1FAIpQLSeb4vMcBNU42PfsFb5gGQybM1WNmjQf1NfZw1FOzM2jYpPS_g/viewform
 [one-inclass]: https://docs.google.com/document/d/1cehyl5xt4MKZ3mbcJvIdpVCUWMXty7SXKJkVAeN802g/copy
